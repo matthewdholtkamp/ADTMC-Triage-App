@@ -1,0 +1,22 @@
+{
+  "short_name": "ADTMC App",
+  "name": "ADTMC Triage Assistant",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/192/medical-doctor.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/512/medical-doctor.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/adtmc_triage_app.html",
+  "background_color": "#f3f4f6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#2563eb"
+}
+
